@@ -8,4 +8,4 @@ About me:
 - 📫 You can reach me on kevinjrdan@gmail.com or instagram.com/kevinjrdan
 
 
-Education:
+**Education:**
