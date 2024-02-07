@@ -100,7 +100,6 @@ Project Name : Mobile JKN Service
 Project Description : 
   Is a web service for online patient registration on JKN Mobile. Also provide data for medical patient history from ERP Medical apps.
   This service is also consume API from BPJS service and consume API self-registration for data integrated.
-  
 Job Description : 
   Build from scretch. Do requirements process, analyzing, design, coding, database design, testing and maintenance.
 Technology/Tools : Golang, SQL Server, PHP, Shell script
