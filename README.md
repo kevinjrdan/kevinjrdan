@@ -31,7 +31,7 @@ About me:
 C#, Javascript, SQL Server, Git, Go, PHP, VB
 
 **Projects**
-July - 2018 to August - 2018
+- July - 2018 to August - 2018
 Position : IT Intern
 Company : PT Rumah Kasih Indonesia
 Project Name : ERP Medical
@@ -44,7 +44,7 @@ Job Description :
   Build from scretch. Do requirements process, analyzing, design, coding, database design, testing and maintenance.
 Technology/Tools : C#, .NET Framework, SQL Server, Crystal Report
 
-Oktober - 2018 to Oktober- 2022
+- Oktober - 2018 to Oktober- 2022
 Position : IT Developer
 Company : PT Rumah Kasih Indonesia
 Project Name : ERP Medical
@@ -58,7 +58,7 @@ Job Description :
   Build from scretch. Do requirements process, analyzing, design, coding, database design, testing and maintenance.
 Technology/Tools : C#, .NET Framework, SQL Server, SSRS
 
-January - 2021 to January - 2021
+- January - 2021 to January - 2021
 Position : IT Developer
 Company : PT Rumah Kasih Indonesia
 Project Name : Sistem Jadwal Operasi
@@ -70,7 +70,7 @@ Job Description :
   Build from scretch. Do requirements process, analyzing, design, coding, database design, testing and maintenance.
 Technology/Tools : C#, .NET Framework, SQL Server, SSRS
 
-January - 2021 to Oktober- 2022
+- January - 2021 to Oktober- 2022
 Position : IT Developer
 Company : PT Rumah Kasih Indonesia
 Project Name : Sistem Informasi Bed Management
@@ -82,7 +82,7 @@ Job Description :
   Maintenance application, Bug Fixing, Enhancement.
 Technology/Tools : VB, SQL Server, SSRS
 
-January - 2022 to March- 2022
+- January - 2022 to March- 2022
 Position : IT Developer
 Company : PT Rumah Kasih Indonesia
 Project Name : Self-Registration WS
@@ -93,7 +93,7 @@ Job Description :
   Maintenance, Bug Fixing, Enhancement.
 Technology/Tools : VB, SQL Server, SSRS
 
-January - 2022 to October - 2022
+- January - 2022 to October - 2022
 Position : IT Developer
 Company : PT Rumah Kasih Indonesia
 Project Name : Mobile JKN Service
@@ -105,7 +105,7 @@ Job Description :
   Build from scretch. Do requirements process, analyzing, design, coding, database design, testing and maintenance.
 Technology/Tools : Golang, SQL Server, PHP, Shell script
 
-November - 2022 - Now
+- November - 2022 - Now
 Position : Backend Developer
 Company : PT Tower Bersama Group
 Project Name : TBGSys
@@ -115,7 +115,7 @@ Job Description :
   Maintenance, Bug Fixing, Enhancement.
 Technology/Tools : C#, .NET Framework, Javascript, SQL Server
 
-November - 2022 - Now
+- November - 2022 - Now
 Position : Backend Developer
 Company : PT Tower Bersama Group
 Project Name : TBG AR System
@@ -125,7 +125,7 @@ Job Description :
   Maintenance, Bug Fixing, Enhancement.
 Technology/Tools : C#, .NET Framework, Javascript, SQL Server
 
-November - 2022 - Now
+- November - 2022 - Now
 Position : Backend Developer
 Company : PT Tower Bersama Group
 Project Name : Vendor Portal
@@ -135,7 +135,7 @@ Job Description :
   Maintenance, Bug Fixing, Enhancement.
 Technology/Tools : C#, .NET Framework, Javascript, SQL Server
 
-November - 2022 - December 2022
+- November - 2022 - December 2022
 Position : Backend Developer
 Company : PT Tower Bersama Group
 Project Name : Hangfire
