@@ -9,4 +9,14 @@ About me:
 
 
 **Education:**
-- [Institut Teknologi Del](https://www.del.ac.id/)
+- [Institut Teknologi Del](https://www.del.ac.id/) **| D3 Teknik Informatika | 2015 - 2018**
+- [BINUS University](https://binus.ac.id/) **| S1 Sistem Informasi | On studying**
+
+**Work Experience**
+- PT Rumah Kasih Indonesia | IT Developer | Oktober 2018 - Oktober 2022
+  - Do requirement gathering and analysis direct to stakeholders.
+  - Design Object and Database
+  - Coding using C# and .Net Framework, Go, PHP for Backend. Javascript or Jquery for FrontEnd. Database using SQL Server
+  - Test, Deploy and Maintenance product
+- PT Tower Bersama Group | Backend Developer | November 2022 - Now
+  - 
