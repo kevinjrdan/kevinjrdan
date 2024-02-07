@@ -13,7 +13,11 @@ About me:
 - [BINUS University](https://binus.ac.id/) **| S1 Sistem Informasi | On studying**
 
 **Work Experience**
-- PT Rumah Kasih Indonesia | IT Developer | Oktober 2018 - Oktober 2022
+- PT Rumah Kasih Indonesia | IT Intern | July 2018 - August 2018
+  - Build web-based application
+  - Handle bugs and error from existing application
+  - Write technical documentation
+- PT Rumah Kasih Indonesia | IT Developer | October 2018 - October 2022
   - Do requirement gathering and analysis direct to stakeholders.
   - Design Object and Database
   - Coding using C# and .Net Framework, Go, PHP for Backend. Javascript or Jquery for FrontEnd. Database using SQL Server
