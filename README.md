@@ -9,3 +9,4 @@ About me:
 
 
 **Education:**
+- [Institut Teknologi Del](https://www.del.ac.id/)https://www.del.ac.id/
