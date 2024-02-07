@@ -6,3 +6,6 @@ About me:
 - 🌱 I’m currently learning .NET Core, Go language and some management things.
 - 👯 I’m looking to a new opportunity
 - 📫 You can reach me on kevinjrdan@gmail.com or instagram.com/kevinjrdan
+
+
+Education:
