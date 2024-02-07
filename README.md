@@ -19,4 +19,4 @@ About me:
   - Coding using C# and .Net Framework, Go, PHP for Backend. Javascript or Jquery for FrontEnd. Database using SQL Server
   - Test, Deploy and Maintenance product
 - PT Tower Bersama Group | Backend Developer | November 2022 - Now
-  - 
+  
